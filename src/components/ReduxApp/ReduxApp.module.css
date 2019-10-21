@@ -1,0 +1,62 @@
+@font-face{
+    font-family: 'Mali';
+    src: url('./font/mail_ray_stuff_regular.ttf');
+}
+
+.container {
+    background: radial-gradient(at top, grey 30%, rgb(100,100,100));
+    min-height: 100vh;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    /*padding: 10px;*/
+
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    animation: start 1s ease-in;
+}
+
+.nav {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    left: 0;
+    top: 0;
+    cursor: pointer;
+}
+
+.back {
+    width: 30px;
+}
+
+.motivation {
+    font-style: oblique;
+    font-family: 'Mali', cursive;
+    letter-spacing: 5px;
+    text-shadow: 1px -1px 1px white;
+}
+
+.title {
+    font-family: 'Berkshire Swash', cursive;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px -1px 1px black;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+@keyframes start {
+    from {
+        opacity: 0;
+    }
+    to {
+        opasity: 1;
+    }
+}

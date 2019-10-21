@@ -1,0 +1,46 @@
+.form {
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.but {
+    width: 100%;
+    cursor: pointer;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(200, 200, 200);
+    outline: none;
+    border-right: 5px solid black;
+    border-bottom: 2px solid black;
+}
+
+.error {
+    border-left: 5px solid red;
+    border-top: 2px solid red;
+    border-right: none;
+    border-bottom: none;
+}
+
+.lot {
+    border-right: 5px solid black;
+    border-bottom: 2px solid black;
+    border-left: none;
+    border-top: none;
+}
+
+.lot, .error {
+    color: black;
+    background-color: rgb(200,200,200);
+    height: 20px;
+    width: 100%;
+    padding: 10px;
+    margin-right: 10px;
+    outline: none;
+    cursor: default;
+}
+
+/*input::-webkit-input-placeholder { color: black; }*/

@@ -1,0 +1,14 @@
+.footer {
+    margin: 20px;
+    text-align: center;
+}
+
+.filterActive {
+    background-color: lime;
+}
+
+.footer button {
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+}

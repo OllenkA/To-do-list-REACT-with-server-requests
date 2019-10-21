@@ -1,0 +1,42 @@
+.check {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.task, .activeTask {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+
+.activeTask {
+    opacity: 0.3;
+    text-decoration-line: line-through;
+}
+
+.text {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    letter-spacing: 1px;
+    font-size: large;
+}
+
+.priority {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.delImg {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
+
+.taskTitle{
+    flex-wrap: wrap;
+}
