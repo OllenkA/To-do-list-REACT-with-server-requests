@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/To-do-list-REACT-with-server-requests/static/css/main.4eced717.chunk.css",
-    "main.js": "/To-do-list-REACT-with-server-requests/static/js/main.65281b3c.chunk.js",
-    "main.js.map": "/To-do-list-REACT-with-server-requests/static/js/main.65281b3c.chunk.js.map",
+    "main.css": "/To-do-list-REACT-with-server-requests/static/css/main.676c539d.chunk.css",
+    "main.js": "/To-do-list-REACT-with-server-requests/static/js/main.a801e46f.chunk.js",
+    "main.js.map": "/To-do-list-REACT-with-server-requests/static/js/main.a801e46f.chunk.js.map",
     "runtime~main.js": "/To-do-list-REACT-with-server-requests/static/js/runtime~main.92ded889.js",
     "runtime~main.js.map": "/To-do-list-REACT-with-server-requests/static/js/runtime~main.92ded889.js.map",
     "static/js/2.7b46c36c.chunk.js": "/To-do-list-REACT-with-server-requests/static/js/2.7b46c36c.chunk.js",
     "static/js/2.7b46c36c.chunk.js.map": "/To-do-list-REACT-with-server-requests/static/js/2.7b46c36c.chunk.js.map",
     "index.html": "/To-do-list-REACT-with-server-requests/index.html",
-    "precache-manifest.007487e323ddb521da3dc4ddc30ab7ff.js": "/To-do-list-REACT-with-server-requests/precache-manifest.007487e323ddb521da3dc4ddc30ab7ff.js",
+    "precache-manifest.63f06bdb5241f8a6a070bb46878fdda8.js": "/To-do-list-REACT-with-server-requests/precache-manifest.63f06bdb5241f8a6a070bb46878fdda8.js",
     "service-worker.js": "/To-do-list-REACT-with-server-requests/service-worker.js",
-    "static/css/main.4eced717.chunk.css.map": "/To-do-list-REACT-with-server-requests/static/css/main.4eced717.chunk.css.map",
+    "static/css/main.676c539d.chunk.css.map": "/To-do-list-REACT-with-server-requests/static/css/main.676c539d.chunk.css.map",
     "static/media/back-navigational-arrow-button-pointing-to-left-svgrepo-com.svg": "/To-do-list-REACT-with-server-requests/static/media/back-navigational-arrow-button-pointing-to-left-svgrepo-com.fec27d6e.svg",
     "static/media/delete-button.svg": "/To-do-list-REACT-with-server-requests/static/media/delete-button.d4798137.svg",
     "static/media/TodoListTitle.module.css": "/To-do-list-REACT-with-server-requests/static/media/mail_ray_stuff_regular.c47c1235.ttf"
