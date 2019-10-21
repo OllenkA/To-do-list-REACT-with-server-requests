@@ -56,7 +56,7 @@ const MainPage = (props) => {
                 <p className={styles.it}>--- IT ---</p>
             </div>
             <NavLink to='/mySchedule'>
-                <button className={styles.but}>RUN TO YOUR DREAMS</button>
+                <button className={styles.but}>START PLANNING YOUR PATH TO YOUR GOAL</button>
             </NavLink>
         </div>
     )

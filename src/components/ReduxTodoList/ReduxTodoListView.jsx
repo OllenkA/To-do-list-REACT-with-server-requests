@@ -12,7 +12,8 @@ const ReduxTodoListView = (props) => {
             <TodoListTitle title={props.title}
                            {...props}
                            deleteTodolist={props.deleteTodolist}/>
-            <AddNewItemForm {...props} goal={'Set tasks for your goal..!'} text={' task'}
+            <AddNewItemForm {...props} goal={'Set tasks for your goal..!'}
+                            text={' task'}
                             addItem={props.addTask}/>
         </div>
         <TodoListTasks onTaskStatusChanged={props.onTaskStatusChanged}

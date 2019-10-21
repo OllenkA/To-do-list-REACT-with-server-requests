@@ -61,7 +61,7 @@ class AddNewItemForm extends React.Component {
                        type="text" placeholder={this.props.goal}
                        value={this.state.title}/>
                 <button className={styles.but} onClick={this.onAddItemClick}>Add{this.props.text}</button>
-                <button className={styles.but} onClick={this.onDeleteItemClick}>Clear input window</button>
+                <button className={styles.but} onClick={this.onDeleteItemClick}>Clear input</button>
             </div>
         );
     }

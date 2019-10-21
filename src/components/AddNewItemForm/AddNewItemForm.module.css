@@ -1,14 +1,15 @@
 .form {
+    /*width: 50%;*/
     margin: 10px;
     padding: 5px;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
+    /*align-items: center;*/
 }
 
 .but {
-    width: 100%;
+    /*width: 100%;*/
     cursor: pointer;
     padding: 5px;
     margin: 5px;
@@ -36,7 +37,8 @@
     color: black;
     background-color: rgb(200,200,200);
     height: 20px;
-    width: 100%;
+    flex-grow: 1;
+    /*width: 100px;*/
     padding: 10px;
     margin-right: 10px;
     outline: none;

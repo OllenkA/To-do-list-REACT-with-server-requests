@@ -15,7 +15,7 @@ const ReduxAppView = (props) => {
 
         <h1 className={styles.title}>MY GOALS</h1>
         <blockquote className={styles.motivation}>SET A GOAL AND DEFINE A TASK TO ACHIEVE IT</blockquote>
-        <AddNewItemForm addItem={props.addTodolist} goal={'SET GOAL...max 60 symbols'} text={' goal'}/>
+        <AddNewItemForm addItem={props.addTodolist} goal={'SET GOAL(max 60 symbols)'} text={' goal'}/>
 
         <div className={styles.wrapper}>
         {props.todolists.map(tl => {
